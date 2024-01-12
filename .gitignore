@@ -1,0 +1,16 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore log files
+*.log
+
+# Ignore a directory named 'build'
+/build/
+
+# Ignore a file named 'config.txt'
+config.txt
+
+#Ignoring Virtual enviroment
+/venv/
+.idea/
